@@ -1,4 +1,3 @@
-# Aviation Risk Analysis Project ✈️
 
 ## Project Overview
 This project analyzes aviation accident data from the National Transportation Safety Board (NTSB) between 1962 and 2023.  
